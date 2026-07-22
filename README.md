@@ -176,15 +176,15 @@ This dashboard helps organizations and researchers to:
 ```
 Social-Media-Addiction-Dashboard
 │
-├── Dashboard.pbix
+├── Social_Media_Addiction_Dashboard.pbix
 ├── Dataset.csv
 ├── README.md
 ├── Screenshots
 │   ├── Social_Media_PG_1.png
-│   ├── Testing_Data_Analyse_PG_1.png
-│   ├── Social_Media_PG_2.png
-│   ├── Testing_Data_Analyse_PG_2.png
+|   ├── Social_Media_PG_2.png
 │   ├── Social_Media_PG_3.png
+│   ├── Testing_Data_Analyse_PG_1.png
+│   ├── Testing_Data_Analyse_PG_2.png
 │   └── Testing_Data_Analyse_PG_3.png
 ```
 
