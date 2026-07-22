@@ -197,9 +197,8 @@ Social-Media-Addiction-Dashboard
 BCA Student | Data Analyst Aspirant
 
 GitHub: https://github.com/MerrimentSaini
-LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
 
-GitHub: 
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
 
 ---
 
