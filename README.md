@@ -122,23 +122,23 @@ The dataset contains information such as:
 
 ---
 
-# 📷 Dashboard Screenshots
+<========== 📷 Dashboard Screenshots ==========>
 
-## 🏠 Page 1 – Executive Dashboard
+## 🏠 Page 1 – Executive Dashboard..!
 
-![Dashboard Page 1](images/Page1.png)
-
----
-
-## 📊 Page 2 – Social Media Usage Analysis
-
-![Dashboard Page 2](images/Page2.png)
+![Dashboard Page 1](Screenshots/Social_Media_PG_1.png)
 
 ---
 
-## 📈 Page 3 – User Engagement & Platform Analysis
+## 📊 Page 2 – Social Media Usage Analysis..!
 
-![Dashboard Page 3](images/Page3.png)
+![Dashboard Page 2](Screenshots/Social_Media_PG_2.png)
+
+---
+
+## 📈 Page 3 – User Engagement & Platform Analysis..!
+
+![Dashboard Page 3](Screenshots/Social_Media_PG_1.png)
 
 ---
 
@@ -159,7 +159,7 @@ The dataset contains information such as:
 
 ---
 
-# 🚀 Business Value
+<----- 🚀 Business Value ----->
 
 This dashboard helps organizations and researchers to:
 
@@ -179,10 +179,13 @@ Social-Media-Addiction-Dashboard
 ├── Dashboard.pbix
 ├── Dataset.csv
 ├── README.md
-├── images
-│   ├── Page1.png
-│   ├── Page2.png
-│   └── Page3.png
+├── Screenshots
+│   ├── Social_Media_PG_1.png
+│   ├── Testing_Data_Analyse_PG_1.png
+│   ├── Social_Media_PG_2.png
+│   ├── Testing_Data_Analyse_PG_2.png
+│   ├── Social_Media_PG_3.png
+│   └── Testing_Data_Analyse_PG_3.png
 ```
 
 ---
@@ -193,10 +196,10 @@ Social-Media-Addiction-Dashboard
 
 BCA Student | Data Analyst Aspirant
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
 
-GitHub: *(Add your GitHub URL)*
+GitHub: 
 
 ---
 
-## ⭐ If you found this project useful, don't forget to Star this repository!
+## ⭐ If you found this project useful, don't forget to Star this repository! Thanks..!
