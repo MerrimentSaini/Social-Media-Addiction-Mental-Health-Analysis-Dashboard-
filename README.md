@@ -138,7 +138,7 @@ The dataset contains information such as:
 
 ## 📈 Page 3 – User Engagement & Platform Analysis..!
 
-![Dashboard Page 3](Screenshots/Social_Media_PG_1.png)
+![Dashboard Page 3](Screenshots/Social_Media_PG_3.png)
 
 ---
 
