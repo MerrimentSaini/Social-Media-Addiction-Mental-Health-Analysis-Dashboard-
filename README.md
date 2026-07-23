@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/GitHub-MerrimentSaini-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/avi-saini-15956b214/">
-    <img src="https://img.shields.io/badge/LinkedIn-avi-saini-15956b214-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Avi Saini-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
