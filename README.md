@@ -1,7 +1,16 @@
 # 📊 Social Media Addiction & Mental Health Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+<p align="center">
+  <a href="https://github.com/MerrimentSaini">
+    <img src="https://img.shields.io/badge/GitHub-MerrimentSaini-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/avi-saini-15956b214/">
+    <img src="https://img.shields.io/badge/LinkedIn-avi-saini-15956b214-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📌 Project Overview
